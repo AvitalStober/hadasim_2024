@@ -7,5 +7,5 @@
 ![get](readmeImages/get.png)
 ![add1](readmeImages/add1.png)
 ![add2](readmeImages/add2.png)
-![getOnlyOne](readmeImages/get_by_id.png)
+![get_one](readmeImages/get_by_id.png)
 ![update](readmeImages/update.png)
