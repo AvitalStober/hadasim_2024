@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.AssemblyInfo.cs
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Avital\hadasim\building\building\bin\Debug\net6.0\building.exe
+C:\Users\User\Desktop\Avital\hadasim\building\building\bin\Debug\net6.0\building.deps.json
+C:\Users\User\Desktop\Avital\hadasim\building\building\bin\Debug\net6.0\building.runtimeconfig.json
+C:\Users\User\Desktop\Avital\hadasim\building\building\bin\Debug\net6.0\building.dll
+C:\Users\User\Desktop\Avital\hadasim\building\building\bin\Debug\net6.0\building.pdb
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.dll
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\refint\building.dll
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.pdb
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\building.genruntimeconfig.cache
+C:\Users\User\Desktop\Avital\hadasim\building\building\obj\Debug\net6.0\ref\building.dll
